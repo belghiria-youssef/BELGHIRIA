@@ -2,12 +2,12 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
+global.ownernomer = "212679184660"
 global.ownername = "BELGHIRIA"
 global.socialm = "Instagram : @belghiria"
 global.location = "Morocco, Rabat";
 
-global.ownernumber = '917466008456'  //creator number
+global.ownernumber = '212679184660'  //creator number
 global.ownername = 'BELGHIRIA ' //owner name
 global.botname = 'BELGHIRIA ᵇᵒᵗ' //name of the bot
 
